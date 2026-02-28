@@ -10,7 +10,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: members/faculty/ky_square.jpg
-    content: members/faculty/田臣.md
+    content: members/faculty/tianchen.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p align="right"><h3>田臣 教授</h3>
