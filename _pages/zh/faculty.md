@@ -37,7 +37,7 @@ profiles:
     content: members/faculty/huanchengying.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>宦成颖 副教授</h3>
+      <p align="center"><h3>宦成颖 准聘助理教授</h3>
       huanchengying@nju.edu.cn<br>
       <a href="https://huanchengying.github.io">个人主页</a></p>
   - align: right
@@ -45,7 +45,7 @@ profiles:
     content: members/faculty/huangchengyuan.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>黄程远 博士</h3>
+      <p align="center"><h3>黄程远 助理研究员</h3>
       huangchengyuan@nju.edu.cn<br>
       <a href="https://ryanhuang1014.github.io/">个人主页</a></p>
   - align: left
@@ -53,7 +53,7 @@ profiles:
     content: members/faculty/caopeirui.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>曹培睿 博士</h3>
+      <p align="center"><h3>曹培睿 研究助理教授</h3>
       caopeirui@nju.edu.cn<br>
       <a href="https://caopeirui.github.io/">个人主页</a></p>
   - align: right
