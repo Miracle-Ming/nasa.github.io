@@ -1,0 +1,13 @@
+#github_users:
+#  - X-LANCE
+#  - OpenDFM
+
+github_repos:
+  - X-LANCE/VoiceFlow-TTS
+  - X-LANCE/AniTalker
+  - X-LANCE/WebSRC-Baseline
+  - X-LANCE/Mobile-Env
+  - OpenDFM/Rememberer
+  - OpenDFM/ChemDFM
+  - OpenDFM/MULTI-Benchmark
+  - OpenDFM/SciEval

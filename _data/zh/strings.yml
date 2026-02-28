@@ -1,0 +1,104 @@
+blog:
+  navigation_title: 博客
+categories:
+  fun: 娱乐
+  work: 工作
+contact_note: >
+  欢迎关注我们的工作，如果有任何问题欢迎随时联系我们。
+footer_text: > # ">" 符号表示忽略直到 "titles:" 的所有新行
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://github.com/X-LANCE/x-lance.github.io" target="_blank">GitHub Pages</a>. Maintained by ZC Zhu, KY Lan, JK Yang, and DY Luo.
+latest_posts: 最新文章
+news: 🔥新闻
+selected_publications: 📑论文摘选
+site_description: X-LANCE 实验室官方网站
+archive_category: 该分类下的文章存档
+archive_tag: 带有此标签的文章存档
+archive_year: 该年份的文章存档
+related_posts:
+  description: "这里有一些您可能喜欢的下一篇文章："
+  title: 喜欢阅读这篇文章吗？
+references: 参考文献
+months:
+  long:
+    january: 1月
+    february: 2月
+    march: 3月
+    april: 4月
+    may: 5月
+    june: 6月
+    july: 7月
+    august: 8月
+    september: 9月
+    october: 10月
+    november: 11月
+    december: 12月
+  short:
+    january: 1月
+    february: 2月
+    march: 3月
+    april: 4月
+    may: 5月
+    june: 6月
+    july: 7月
+    august: 8月
+    september: 9月
+    october: 10月
+    november: 11月
+    december: 12月
+no_news: 到目前为止没有新闻...
+pagination:
+  newer: 更新的
+  older: 更旧的
+  page: 页
+cv:
+  address: 地址
+  area: 区域
+  awarder: 颁奖者
+  awards: 奖项
+  basics: 基本信息
+  certificates: 证书
+  city: 城市
+  countryCode: 国家代码
+  courses: 课程
+  date: 日期
+  education: 教育
+  email: 电子邮件
+  endDate: 结束日期
+  fluency: 流利程度
+  highlights: 亮点
+  image: 图片
+  institution: 机构
+  interests: 兴趣
+  issuer: 发行者
+  keywords: 关键词
+  label: 标签
+  language: 语言
+  languages: 语言
+  level: 等级
+  location: 位置
+  name: 名称
+  network: 网络
+  organization: 组织
+  phone: 电话
+  position: 职位
+  postalCode: 邮政编码
+  profiles: 个人资料
+  projects: 项目
+  publications: 出版物
+  publisher: 出版商
+  reference: 参考
+  references: 参考文献
+  region: 地区
+  releaseDate: 发布日期
+  score: 分数
+  skills: 技能
+  startDate: 开始日期
+  studyType: 学习类型
+  summary: 摘要
+  table_of_contents: 目录
+  title: 标题
+  url: 网址
+  username: 用户名
+  volunteer: 志愿者
+  work: 工作
