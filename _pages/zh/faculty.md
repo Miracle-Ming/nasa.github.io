@@ -9,65 +9,67 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: members/faculty/ky_square.jpg
+    image: members/faculty/tc.jpg
     content: members/faculty/tianchen.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p align="right"><h3>田臣 教授</h3>
-      -<br>
       tianchen@nju.edu.cn<br>
       <a href="https://cs.nju.edu.cn/tianchen/">个人主页</a></p>
   - align: left
-    image: members/faculty/slp_square.jpg
-    content: members/faculty/shenliping.md
+    image: members/faculty/ykq.jpg
+    content: members/faculty/yukaiqiang.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>申丽萍 副教授</h3>
-      电院3号楼531<br>
-      lpshen@sjtu.edu.cn<br>
-      <a href="https://www.cs.sjtu.edu.cn/~shen-lp/">个人主页</a></p>
+      <p align="center"><h3>于开强 准聘助理教授</h3>
+      kaiqiang.yu@nju.edu.cn<br>
+      <a href="https://kaiqiangyu.github.io/">个人主页</a></p>
   - align: right
-    image: members/faculty/cx_square.jpg
-    content: members/faculty/chenxie.md
+    image: members/faculty/wq.jpg
+    content: members/faculty/wangqing.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>陈谐 副教授</h3>
-      电院3号楼501<br>
-      chenxie95@sjtu.edu.cn<br>
-      <a href="https://chenxie95.github.io/">个人主页</a></p>
+      <p align="center"><h3>汪庆 准聘副教授</h3>
+      wangqing.cs@nju.edu.cn<br>
+      <a href="https://wangqing.io">个人主页</a></p>
   - align: left
-    image: members/faculty/wmy_square.jpg
-    content: members/faculty/wumengyue.md
+    image: members/faculty/hcy.jpg
+    content: members/faculty/huanchengying.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>吴梦玥 副教授</h3>
-      电院3号楼524<br>
-      mengyuewu@sjtu.edu.cn<br>
-      <a href="https://myw19.github.io/">个人主页</a></p>
+      <p align="center"><h3>宦成颖 副教授</h3>
+      huanchengying@nju.edu.cn<br>
+      <a href="https://huanchengying.github.io">个人主页</a></p>
   - align: right
-    image: members/faculty/cl_square.jpg
-    content: members/faculty/chenlu.md
+    image: members/faculty/huangcy.jpg
+    content: members/faculty/huangchengyuan.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>陈露 副教授</h3>
-      电院3号楼341<br>
-      chenlusz@sjtu.edu.cn<br>
-      <a href="https://coai-sjtu.github.io/">个人主页</a></p>
+      <p align="center"><h3>黄程远 博士</h3>
+      huangchengyuan@nju.edu.cn<br>
+      <a href="https://ryanhuang1014.github.io/">个人主页</a></p>
   - align: left
-    image: members/faculty/wxb_square.jpg
-    content: members/faculty/wuxiaobao.md
+    image: members/faculty/cpr.jpg
+    content: members/faculty/caopeirui.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>吴小宝 助理教授</h3>
-      - <br>
-      xiaobaowu@sjtu.edu.cn<br>
-      <a href="https://bobxwu.github.io/">个人主页</a></p>
+      <p align="center"><h3>曹培睿 博士</h3>
+      caopeirui@nju.edu.cn<br>
+      <a href="https://caopeirui.github.io/">个人主页</a></p>
   - align: right
-    image: members/faculty/myq_square.jpg
-    content: members/faculty/maoyiqiong.md
+    image: members/faculty/mqk.jpg
+    content: members/faculty/mengqingkai.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>茅懿琼 科研助理</h3>
-      电院3号楼341<br>
-      yiqiong.mao@sjtu.edu.cn</a></p>
+      <p align="center"><h3>孟晴开 助理教授（特聘研究员）</h3>
+      qkmeng@nju.edu.cn<br>
+      <a href="https://mengqingkai.github.io/">个人主页</a></p>
+  - align: left
+    image: members/faculty/wzb.jpg
+    content: members/faculty/wangzhibin.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p align="center"><h3>王智彬 助理研究员</h3>
+      wzbwangzhibin@gmail.com<br>
+      <a href="https://wzbxpy.github.io/">个人主页</a></p>
 ---
