@@ -10,13 +10,13 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: members/faculty/ky_square.jpg
-    content: members/faculty/yukai.md
+    content: members/faculty/田臣.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="right"><h3>俞凯 特聘教授</h3>
-      电院3号楼539<br>
-      kai.yu@sjtu.edu.cn<br>
-      <a href="https://x-lance.sjtu.edu.cn/~kaiyu/index_zh.html">个人主页</a></p>
+      <p align="right"><h3>田臣 教授</h3>
+      -<br>
+      tianchen@nju.edu.cn<br>
+      <a href="https://cs.nju.edu.cn/tianchen/">个人主页</a></p>
   - align: left
     image: members/faculty/slp_square.jpg
     content: members/faculty/shenliping.md
