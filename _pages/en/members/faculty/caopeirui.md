@@ -1,2 +1,2 @@
-曹培睿，现任南京大学计算机系助理研究员。东南大学本科，北航硕士，上海交大博士。研究兴趣包括优化数据中心网络（包括拓扑、路由、集合通信和 RDMA 等）、大规模网络模拟器和网络瓶颈分析。
+I am currently a Research Assistant Professor in the School of Computer Science at Nanjing University (NJU). Before that, I received my PhD degree from Shanghai Jiao Tong University in June 2024, master degree from Beihang University in March 2018 and bachelor degree from Southeast University in June 2015. I am very grateful for learning so much from my PhD advisor, Shizhen Zhao. Besides, I was a Research and Development Engineer (special offer winner) in Baidu's search infrastructure team from April 2018 to May 2019.
 
