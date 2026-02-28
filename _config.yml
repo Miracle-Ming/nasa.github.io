@@ -3,15 +3,15 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: X
-middle_name: "-"
-last_name: LANCE
+first_name: NASA
+middle_name: ""
+last_name: ""
 email: xlance@sjtu.edu.cn
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 icon: logo_red_clipped.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://x-lance.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://miracle-ming.github.io # the base hostname & protocol for your site
+baseurl:  /nasa.github.io # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
