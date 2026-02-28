@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://x-lance.github.io/sitemap.xml
+Sitemap: https://miracle-ming.github.io/nasa.github.io/sitemap.xml
