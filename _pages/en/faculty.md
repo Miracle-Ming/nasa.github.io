@@ -3,72 +3,75 @@ page_id: faculty
 layout: profiles
 permalink: /members/faculty/
 title: 🧑‍🏫Faculty
-description: Faculties of X-LANCE
+description: Faculties of NASA
 nav: false
-nav_order: 7
+nav_order: 8
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: members/faculty/ky_square.jpg
-    content: members/faculty/yukai.md
+    image: members/faculty/tc.jpg
+    content: members/faculty/tianchen.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>Professor Kai Yu</h3>
-      SEIEE 3-539<br>
-      kai.yu@sjtu.edu.cn<br>
-      <a href="https://x-lance.github.io/kaiyu/">Personal Website</a></p>
+      <p align="center"><h3>Professor Chen Tian</h3>
+      tianchen@nju.edu.cn<br>
+      <a href="https://cs.nju.edu.cn/tianchen/">Personal Website</a></p>
   - align: left
-    image: members/faculty/slp_square.jpg
-    content: members/faculty/shenliping.md
+    image: members/faculty/ykq.jpg
+    content: members/faculty/yukaiqiang.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>Associate Professor Liping Shen</h3>
-      SEIEE 3-531<br>
-      lpshen@sjtu.edu.cn<br>
-      <a href="https://www.cs.sjtu.edu.cn/~shen-lp/">Personal Website</a></p>
+      <p align="center"><h3>Assistant Professor Kaiqiang Yu</h3>
+      kaiqiang.yu@nju.edu.cn<br>
+      <a href="https://kaiqiangyu.github.io/">Personal Website</a></p>
   - align: right
-    image: members/faculty/cx_square.jpg
-    content: members/faculty/chenxie.md
+    image: members/faculty/wq.jpg
+    content: members/faculty/wangqing.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>Associate Professor Xie Chen</h3>
-      SEIEE 3-501<br>
-      chenxie95@sjtu.edu.cn<br>
-      <a href="https://chenxie95.github.io/">Personal Website</a></p>
+      <p align="center"><h3>Associate Professor Qing Wang</h3>
+      wangqing.cs@nju.edu.cn<br>
+      <a href="https://wangqing.io">Personal Website</a></p>
   - align: left
-    image: members/faculty/wmy_square.jpg
-    content: members/faculty/wumengyue.md
+    image: members/faculty/hcy.jpg
+    content: members/faculty/huanchengying.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>Associate Professor Mengyue Wu</h3>SEIEE 3-524<br>
-      mengyuewu@sjtu.edu.cn<br>
-      <a href="https://myw19.github.io/">Personal Website</a></p>
+      <p align="center"><h3>Tenure-Track Assistant Professor Chengying Huan</h3>SEIEE 3-524<br>
+      huanchengying@nju.edu.cn<br>
+      <a href="https://huanchengying.github.io">Personal Website</a></p>
   - align: right
-    image: members/faculty/cl_square.jpg
-    content: members/faculty/chenlu.md
+    image: members/faculty/huangcy.jpg
+    content: members/faculty/huangchengyuan.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>Associate Professor Lu Chen</h3>
-      SEIEE 3-341<br>
-      chenlusz@sjtu.edu.cn<br>
-      <a href="https://coai-sjtu.github.io/">Personal Website</a></p>
+      <p align="center"><h3>Assistant Researcher Chengyuan Huang</h3>
+      huangchengyuan@nju.edu.cn<br>
+      <a href="https://ryanhuang1014.github.io/">Personal Website</a></p>
   - align: left
-    image: members/faculty/wxb_square.jpg
-    content: members/faculty/wuxiaobao.md
+    image: members/faculty/cpr.jpg
+    content: members/faculty/caopeirui.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>Assistant Professor Xiaobao Wu</h3>
-      - <br>
-      xiaobaowu@sjtu.edu.cn<br>
-      <a href="https://bobxwu.github.io/">Personal Website</a></p>
+      <p align="center"><h3>Research Assistant Professor Peirui Cao</h3>
+      caopeirui@nju.edu.cn<br>
+      <a href="https://caopeirui.github.io/">Personal Website</a></p>
   - align: right
-    image: members/faculty/myq_square.jpg
-    content: members/faculty/maoyiqiong.md
+    image: members/faculty/mqk.jpg
+    content: members/faculty/mengqingkai.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p align="center"><h3>Research Assistant Yiqiong Mao</h3>
-      SEIEE 3-341<br>
-      yiqiong.mao@sjtu.edu.cn</a></p>
+      <p align="center"><h3>Assistant Professor (Ph.D. Advisor) Qingkai Meng</h3>
+      qkmeng@nju.edu.cn<br>
+      <a href="https://mengqingkai.github.io/">Personal Website</a></p>
+  - align: left
+    image: members/faculty/wzb.jpg
+    content: members/faculty/wangzhibin.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p align="center"><h3>Assistant Researcher Zhibin Wang</h3>
+      wzbwangzhibin@gmail.com<br>
+      <a href="https://wzbxpy.github.io/">Personal Website</a></p>
 ---
